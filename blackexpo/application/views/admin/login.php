@@ -4,8 +4,8 @@
 		<meta name="description" content="">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- <title>Masuk | <?php echo $this->func->globalset("nama"); ?> Manager</title> -->
-		<title>Masuk | Manager</title>
+		<title>Masuk | <?php echo $this->func->globalset("nama"); ?> Manager</title>
+		<!-- <title>Masuk | Manager</title> -->
 		<link rel="shortcut icon" type="image/png" href="<?php echo base_url("assets/img/".$this->func->globalset("logo")); ?>"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/bootstrap.min.css"); ?>" />
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/css/ready.min.css"); ?>" />
